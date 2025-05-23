@@ -13,4 +13,5 @@ Developed as part of a Bachelor thesis at the University of Applied Sciences Tec
 - Sends alerting to dedicated Microsoft Teams Channel 
 - Designed for automated, periodic execution in AKS  
 
+
 This tool enables secret management and reduces the risk of service disruptions caused by expired credentials.
